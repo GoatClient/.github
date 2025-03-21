@@ -1,4 +1,4 @@
-# GoatClient - Custom Minecraft Client
+# GoatClient - The Minecraft Client by Players for Players
 
 Welcome to **GoatClient**! It's a custom Minecraft client developed by a small team of developers to improve your Minecraft experience.
 
